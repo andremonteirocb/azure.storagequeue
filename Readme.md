@@ -1,4 +1,4 @@
 
 ## Configurações
-### Criar o container (docker-compose up -d) arquivo yml encontra-se na pasta
+### Criar o container (docker-compose up -d)
 ### Baixar o Azure Storage Explorer
